@@ -37,8 +37,8 @@ I also noticed that if the lighting and/or background changed too much, the mode
 **One ethical concern:** One ethical concern is that the model is based only on how things look on my desk. That means it might not work well for someone else who has a different kind of pen or book or different lighting and background. This shows how AI can be biased if it only learns from one person’s environment, which makes it less fair or useful for others.
 
 ## Challenges Faced or Interesting Discoveries  
-I learned that how the scissors were positioned made a big difference. The model did better when they were open. I also found that holding the pen in my hand helped a lot compared to showing it flat on the table.
+I learned that how the scissors were positioned made a big difference. The model did better when they were open. I also found that holding the pen in my hand helped a lot compared to showing it flat on the table. The model also confused the pen and the scissors when held in my hand. Taking the photos without my hand proved to be a challenge and in the future I'd try to train with some sort of stand/prop that didn't involve the use of my hand to help identify just the objects. 
 
 ## Screenshot  
-<img width="1249" alt="image" src="https://github.com/user-attachments/assets/45b1f6ca-b659-4b81-b703-598a7fdc259c" />
+<img width="1204" alt="image" src="https://github.com/user-attachments/assets/4a4d50e2-e7f2-4364-b284-197afe3df67e" />
 
