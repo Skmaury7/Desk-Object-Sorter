@@ -1,4 +1,4 @@
-# AI Desk-Object-Sorter
+# Computer Vision Lab Assignment/AI Desk-Object-Sorter
 
 ## Project Description  
 This project uses Google's Teachable Machine to help identify common desk objects using a webcam. I trained the model to recognize three items. A pen. A pair of scissors. A book.
